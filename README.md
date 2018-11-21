@@ -112,7 +112,7 @@ python prosody.py "./P1.wav" "featuresDDKst.txt" "static" "true"
 The comparison of different audio features used for prosodic features extraction by different participants
 ![Image](https://github.com/poor-kid/Job_Interview_Prediction/blob/master/Output/Figure_1.png?Raw=true)
 
-![Image](https://github.com/jcvasquezc/DisVoice/blob/master/images/prosody3.png?Raw=true)
+
 
 lexical analysis
 ![Image](https://github.com/poor-kid/Job_Interview_Prediction/blob/master/Output/Screenshot%20from%202018-11-19%2017-09-25.png?Raw=true)
