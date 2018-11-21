@@ -7,7 +7,7 @@ Analysis and Prediction of Job Interview Performance Using Lexical and Prosodic 
 * learns regression models to predict interview ratings and the likelihood of hiring using automatically extracted features.
 * predicts several other high-level personality traits such as engagement, friendliness, and excitement.
 
-`The objective of the project is to extract the various lexical and Prosodic features responsible for diﬀerent personality traits and predict scores for various personality traits given an Interview.The proposed framework is trained by analyzing the audio recordings of 19 internship-seeking undergraduates in our institute (IIIT Allahabad). These Interviews were conducted b PhD Scholars from IIITA`
+`The objective of the project is to extract the various lexical and Prosodic features responsible for different personality traits and predict scores for various personality traits given in an Interview.The proposed framework is trained by analyzing the audio recordings of 19 internship-seeking undergraduates in our institute (IIIT Allahabad). These Interviews were conducted by PhD Scholars from IIITA`
 
 # Dependencies:
 * Numpy
